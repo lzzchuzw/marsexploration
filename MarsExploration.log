@@ -1,0 +1,3 @@
+2021-02-24 08:54:07.269  INFO 15860 --- [main] c.e.MarsexplorationApplicationTests      : Starting MarsexplorationApplicationTests using Java 1.8.0_271 on DESKTOP-PIVSN2B with PID 15860 (started by dell in E:\workspace\IdeaProjects\marsexploration)
+2021-02-24 08:54:07.275  INFO 15860 --- [main] c.e.MarsexplorationApplicationTests      : No active profile set, falling back to default profiles: default
+2021-02-24 08:54:07.772  INFO 15860 --- [main] c.e.MarsexplorationApplicationTests      : Started MarsexplorationApplicationTests in 0.688 seconds (JVM running for 1.615)
